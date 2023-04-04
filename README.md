@@ -1,5 +1,5 @@
 # Wallet Coin
-English：Collect and organize the download addresses and usage methods of digital currency wallets for everyone to download and use, and start the digital currency journey.
+English：Collect and organize the download addresses and usage methods of digital currency wallets, making it convenient for friends who are not convenient to download using Google Play, and embark on a journey of digital currency.
 
 中文：收集整理数字货币钱包的下载地址和使用方法，免去不方便使用Google Play下载的朋友方便下载使用，开启数字货币之旅。
 
